@@ -1,0 +1,5 @@
+cinema-catalog-service/src/.env
+cinema-catalog-service/src/node_modules
+movies-service/src/.env
+movies-service/src/node_modules
+
